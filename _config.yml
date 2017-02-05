@@ -1,2 +1,3 @@
 name: Kuan-Yu Chen
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
