@@ -59,7 +59,8 @@ float: left;
 font-size: .8em;
 }
 .sec-right{
-margin-left: 150px;
+float: right;
+/* margin-left: 150px; */
 font-size: .8em;
 }
 
