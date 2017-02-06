@@ -64,6 +64,11 @@ word-spacing: 5px
 }
 
 
+@media screen and (min-width: 40em) {
+  .grid-2 { width: 33.3333333%; }
+  .grid-4 { width: 66.6666666%; }
+
+}
 
 .row {
   clear: both;
