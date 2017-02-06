@@ -81,6 +81,10 @@ word-spacing: 5px
     display: table; /* 2 */
 }
 
+.row:after {
+    clear: left;
+}
+
 .education {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
