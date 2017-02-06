@@ -49,12 +49,12 @@ word-spacing: 5px;
 }
 
 #sec-adjust p{
-padding-top:40px;
+padding-top:20px;
 /*margin-top: 25px;*/
 }
 
 .section{
-/*margin-top: 80px;*/
+margin-top: 10px;
 /*margin-bottom: 10px;*/
 text-align: justify;
 padding-bottom: 50px;
