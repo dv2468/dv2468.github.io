@@ -60,7 +60,7 @@ text-align: justify;
 .sec-left{
 float: left;
 /* font-weight: bold; */
-font-size: .8em;
+font-size: .65em;
 margin-bottom: 10px
 }
 .sec-right{
@@ -100,9 +100,9 @@ h1 {
 
 h2 {
 	color:#7a2e40;
-	margin:20px 0 10px;
+	margin:15px 0 10px;
 	padding-bottom:10px;
-	font:normal 17px Georgia, serif;
+	font:bold 23px Georgia, serif;
 	border-bottom:1px;
 	text-decoration: underline;
 	text-align:center;
@@ -113,8 +113,9 @@ h3 {
 	color:#7a2e40;
 	margin:14px 0;
 	padding-bottom:10px;
-	font:bold 14px Arial, Helvetica, sans-serif;
+	font:bold 18px Arial, Helvetica, sans-serif;
 	border-bottom:1px;
+
 }
 
 h4 {
