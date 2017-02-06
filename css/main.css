@@ -44,6 +44,10 @@ nav ul li, footer ul li {
 	float:right;
 }
 
+#cv-link{
+word-spacing: 10px;
+}
+
 .sidebar {
 	width: 230px;
 	margin:0 auto;
