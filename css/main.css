@@ -37,8 +37,8 @@ nav ul li, footer ul li {
 }
 
 #footer {
-	background:#f7f7f7;
-	border-top:1px solid #f0e9eb;
+/* 	background:#f7f7f7; */
+	border-top:1px;
 	padding:10px 15px;
 	clear:both;
 }
