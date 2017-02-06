@@ -8,8 +8,9 @@ nav ul{
     list-style: none;
     font-weight: bold;
 }
+
 footer u1{
-	border-top:1px;
+	border-top:1px solid #f0e9eb;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
     	padding:10px 15px;
     	list-style: none;
@@ -20,10 +21,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-
-
-
-
 
 #content {
     border:1px solid black;
