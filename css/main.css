@@ -62,15 +62,15 @@ word-spacing: 5px
   float: left;
   width:100%;
   padding: 0 1%;
-/*   margin-left: auto; */
+  margin-left: auto;
   margin-right: auto;
 }
 
 @media screen and (min-width: 40em) {
   .grid-1 { width: 16.6666666%; }
-  .grid-2 { width: 20%; }
+  .grid-2 { width: 33.3333333%; }
   .grid-3 { width: 50%; }
-  .grid-4 { width: 70%; }
+  .grid-4 { width: 66.6666666%; }
   .grid-5 { width: 83.3333333%; }
   .grid-6 { width: 100%; }
 
@@ -79,7 +79,7 @@ word-spacing: 5px
 .row {
   clear: both;
   margin-right: -1%;
-  margin-left:  -5%;
+  margin-left:  -1%;
   
 }
 
