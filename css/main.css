@@ -63,7 +63,7 @@ word-spacing: 5px
   width:100%;
   padding: 0 1%;
   margin-left: 0;
-  margin-right: auto;
+/*   margin-right: auto; */
 }
 
 @media screen and (min-width: 40em) {
@@ -82,7 +82,7 @@ word-spacing: 5px
   margin-left:  -15%;
   
 }
-
+/* 
 .row:before,
 .row:after {
     content: " "; /* 1 */
@@ -92,7 +92,7 @@ word-spacing: 5px
 .row:after {
     clear: both;
 }
-
+ */
 .education {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
