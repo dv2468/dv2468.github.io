@@ -62,7 +62,7 @@ word-spacing: 5px
   float: left;
   width:100%;
   padding: 0 1%;
-  margin-left: 0;
+  margin-left: auto;
 /*   margin-right: auto; */
 }
 
@@ -79,7 +79,7 @@ word-spacing: 5px
 .row {
   clear: both;
   margin-right: -1%;
-  margin-left:  -15%;
+  margin-left:  -5%;
   
 }
 
