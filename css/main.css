@@ -82,7 +82,7 @@ word-spacing: 5px
   margin-left:  -15%;
   
 }
-/* 
+
 .row:before,
 .row:after {
     content: " "; /* 1 */
@@ -92,13 +92,13 @@ word-spacing: 5px
 .row:after {
     clear: both;
 }
- */
+
 .education {
   font-family: "Lato", sans-serif;
   line-height: 1.5;
   margin-bottom: 0;
   text-align: left;
-  margin: 0 auto;
+  margin-left: 0;
 }
 
 @media screen and (min-width: 40em) {
