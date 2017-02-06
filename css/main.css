@@ -58,19 +58,19 @@ padding-top:15px;
 margin-bottom: 10px;
 text-align: justify;
 padding-bottom: 80px;
-background-color: red;
+/*background-color: red;*/
 	
 }
 .sec-left{
 float: left;
 /* font-weight: bold; */
 font-size: .65em;
-background-color: lightgreen;
+/*background-color: lightgreen;*/
 /*margin-bottom: 10px*/
 }
 .sec-right{
 /* float: right; */
-background-color: lightblue;
+/*background-color: lightblue;*/
 margin-left: 180px;
 font-size: .7em;
 /*margin-top: 30px*/
