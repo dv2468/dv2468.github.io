@@ -56,7 +56,7 @@ text-align: justify;
 .sec-left{
 float: left;
 /* font-weight: bold; */
-font-size: .8em
+font-size: .8em;
 }
 .sec-right{
 margin-left: 150px;
