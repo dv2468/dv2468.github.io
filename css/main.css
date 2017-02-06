@@ -78,8 +78,8 @@ word-spacing: 5px
 
 .row {
   clear: both;
-  margin-right: -1%;
-  margin-left:  -1%;
+  margin-right: -10px;
+  margin-left:  -10px;
   
 }
 
