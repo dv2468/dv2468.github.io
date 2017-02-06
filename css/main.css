@@ -51,6 +51,12 @@ nav ul li, footer ul li {
 /* 	background:url('http://img404.imageshack.us/img404/3092/shadowh.jpg') no-repeat top; */
 }
 
+.box {
+/* 	background:#f7f7f7; */
+	border:1px;
+	padding:15px;
+}
+
 a {
     text-decoration: none;
     color: #999;
