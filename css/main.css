@@ -59,7 +59,7 @@ float: left;
 font-size: .8em;
 }
 .sec-right{
-float: right;
+/* float: right; */
 margin-left: 150px;
 font-size: .8em;
 }
