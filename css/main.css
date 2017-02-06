@@ -35,12 +35,12 @@ nav ul li, footer ul li {
 }
 
 #left-column {
-	width: 30%;
+	width: 10000000px;
 	float:left;
 }
 
 #right-column {
-	width: 70%;
+	width: 100px;
 	float:right;
 }
 
