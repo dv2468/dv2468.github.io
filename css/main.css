@@ -53,16 +53,13 @@ word-spacing: 5px
 }
 
 
-.grid-1,
+
 .grid-2,
-.grid-3,
-.grid-4,
-.grid-5,
-.grid-6 {
+.grid-4,{
   float: left;
   width:100%;
   padding: 0 1%;
-  margin-left: -10px;
+  margin-left: auto;
   margin-right: auto;
 }
 
@@ -70,7 +67,7 @@ word-spacing: 5px
 
 .row {
   clear: both;
-  margin-right: -10px;
+  margin-right: auto;
   margin-left:  auto;
   
 }
@@ -90,7 +87,7 @@ word-spacing: 5px
   line-height: 1.5;
   margin-bottom: 0;
   text-align: left;
-/*   margin: 0 auto; */
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 40em) {
