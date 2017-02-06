@@ -82,7 +82,7 @@ word-spacing: 5px
 }
 
 .row:after {
-    clear: left;
+    clear: right;
 }
 
 .education {
