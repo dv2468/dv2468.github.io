@@ -75,7 +75,11 @@ word-spacing: 5px
   
 }
 
-
+.row:before,
+.row:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
 
 .education {
   font-family: "Lato", sans-serif;
