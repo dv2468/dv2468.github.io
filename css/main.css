@@ -59,13 +59,13 @@ float: left;
 font-size: .8em;
 }
 .sec-right{
-margin-left: 150px;
+margin-left: 200px;
 font-size: .8em;
 }
 
 .sidebar {
 	float:left;
-	width: 230px;
+	width: 210px;
 	margin-left:0;
 	padding:10px 5px;
 	font:normal 13px;
