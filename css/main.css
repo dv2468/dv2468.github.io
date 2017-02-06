@@ -21,16 +21,6 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-#content {
-    border:1px solid black;
-}
-
-#content > div {
-    height:100px;
-    box-sizing:border-box;
-    -moz-box-sizing:border-box;
-}
-
 #main-content {
 	margin:0 auto;
 }
@@ -38,6 +28,12 @@ nav ul li, footer ul li {
 #main-image {
 	text-align:center;
 }
+
+#largest-size {  
+	width: 100%;  
+	height: auto; 
+}
+
 #left-column {
 	width: 50%;;
 	float:left;
