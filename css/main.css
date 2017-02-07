@@ -1,6 +1,6 @@
 body {
     margin: 30px auto;
-    width: 80%;
+    width: 75%;
 }
 nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -40,7 +40,7 @@ nav ul li, footer ul li {
 }
 
 #right-column {
-	width: 65%;
+	width: 70%;
 	float:right;
 }
 
