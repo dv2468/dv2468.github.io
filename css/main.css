@@ -65,7 +65,7 @@ padding-bottom: 80px;
 float: left;
 /* font-weight: bold; */
 font-size: .65em;
-/*background-color: lightgreen;*/
+background-color: lightgreen;
 /*margin-bottom: 10px*/
 }
 .sec-right{
@@ -104,6 +104,11 @@ a {
 }
 a:hover {
     text-decoration: underline;
+}
+
+br {
+   display: block;
+   margin: 10px 0;
 }
 
 h1 {
