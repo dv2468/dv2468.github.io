@@ -53,6 +53,10 @@ nav ul li, footer ul li {
 	/*margin-top: 25px;*/
 }
 
+ul#none-type {
+  list-style-type: none;
+}
+
 .section{
 	/*margin-top: 10px;*/
 	margin-bottom: 10px;
