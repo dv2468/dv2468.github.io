@@ -55,6 +55,7 @@ nav ul li, footer ul li {
 
 ul#none-type {
   list-style-type: none;
+  text-align: left;
 }
 
 .section{
